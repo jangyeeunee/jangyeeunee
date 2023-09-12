@@ -1,4 +1,11 @@
-### Hi there 👋
+### I AM HAPPY JANG YE EUN!
+
+Name : Jang Ye Eun
+Nationality : South Korea
+Birth : 2003.11.21
+School : Gachon Uni. Software major.
+E-mail : amy5132@naver.com / amy5132@gachon.ac.kr (About School work, using this e-mail please.)
+instagram : @jangyeeunee
 
 <!--
 **jangyeeunee/jangyeeunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
