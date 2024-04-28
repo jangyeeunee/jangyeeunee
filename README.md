@@ -6,7 +6,7 @@
 
 -Birth : 2003.11.21
 
--School : Gachon Uni. Software major.
+-School : Gachon Univ. Software major.
 
 -E-mail : amy5132@naver.com / amy5132@gachon.ac.kr (About School work, using this e-mail please.)
 
